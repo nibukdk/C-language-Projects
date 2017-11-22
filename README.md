@@ -1,1 +1,1 @@
-# C-language-Projects
+# C-language mini beginners projects
