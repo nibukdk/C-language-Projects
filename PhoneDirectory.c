@@ -9,9 +9,7 @@ int main(){
 		char telphoneNum[21];
 
 	};
-
 	struct PhoneDir contactList;
-	
 
 		printf("Enter first name:");
 		scanf("%s",&contactList.firstName[0]);
@@ -28,7 +26,6 @@ int main(){
 
 		}
 		printf("Successfully saved the data.");
-
 
 	fclose(appendFile);
 
